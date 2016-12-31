@@ -1,10 +1,9 @@
 package week01;
 
-import java.util.function.BiFunction;
-import java.util.function.Function;
-
 /**
+ * Nothing functional about this class.
  * @Author Purush Swaminathan
+ *
  */
 public class SquareRootNewton {
 
