@@ -1,4 +1,4 @@
-package week01;
+package io.purush.java.functional.week01;
 
 import java.util.function.BiFunction;
 import java.util.function.Function;

@@ -1,4 +1,4 @@
-package week01;
+package io.purush.java.functional.week01;
 
 /**
  * Nothing functional about this class.
